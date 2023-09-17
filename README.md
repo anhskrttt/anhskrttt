@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: [Anh's Resume](https://drive.google.com/file/d/1tPbx0ifb7pDAl9fgUX3h4m11z6a8TjSh/view?usp=sharing)
 
-- ⚡ Fun fact **My cats' names are: MeoMeo, Nứt (Linux) and Đâu (Window) D:**
+<!-- - ⚡ Fun fact **My cats' names are: MeoMeo, Nứt (Linux) and Đâu (Window) D:** -->
 
 <!-- ### Books I'm reading
 
