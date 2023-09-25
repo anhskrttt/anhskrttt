@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anhdn.uet@gmail.com**
 
-- 📄 Know about my experiences: [Anh's Resume](https://drive.google.com/file/d/1tPbx0ifb7pDAl9fgUX3h4m11z6a8TjSh/view?usp=sharing)
+- 📄 Know about my experiences: [Anh's Resume](/anhdn_resume.pdf)
 
 <!-- - ⚡ Fun fact **My cats' names are: MeoMeo, Nứt (Linux) and Đâu (Window) D:** -->
 
