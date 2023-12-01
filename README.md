@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anhskrttt&label=Profile%20views&color=0e75b6&style=flat" alt="anhskrttt" /> </p>
 
-- 🌱 I’m currently learning **Reactjs, Bootstrap 5, Java, Spring Boot**
+<!-- - 🌱 I’m currently learning **Reactjs, Bootstrap 5, Java, Spring Boot**
 
-- 💬 Ask me about **Blockchain, Ethereum, Cross-chain Bridge, DeFi protocols**
+- 💬 Ask me about **Blockchain, Ethereum, Cross-chain Bridge, DeFi protocols** -->
 
 - 📫 How to reach me **anhdn.uet@gmail.com**
 
