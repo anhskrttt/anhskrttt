@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ánh</h1>
 <h3 align="center">A freshly graduated software engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anhskrttt&label=Profile%20views&color=0e75b6&style=flat" alt="anhskrttt" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anhskrttt&label=Profile%20views&color=0e75b6&style=flat" alt="anhskrttt" /> </p>
 
 <!-- - 🌱 I’m currently learning **Reactjs, Bootstrap 5, Java, Spring Boot**
 
 - 💬 Ask me about **Blockchain, Ethereum, Cross-chain Bridge, DeFi protocols** -->
 
-- 📫 How to reach me **anhdn.uet@gmail.com**
+<!-- - 📫 How to reach me **anhdn.uet@gmail.com**
 
-- 📄 Know about my experiences: [Anh's Resume](/anhdn_resume.pdf)
+- 📄 Know about my experiences: [Anh's Resume](/anhdn_resume.pdf) -->
 
 <!-- - ⚡ Fun fact **My cats' names are: MeoMeo, Nứt (Linux) and Đâu (Window) D:** -->
 
