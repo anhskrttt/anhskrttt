@@ -19,8 +19,8 @@
 - [Utopia](https://www.goodreads.com/book/show/18414.Utopia)
 - [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer) -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/dnanh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dnanh" height="30" width="40" /></a>
 <!-- <a href="https://www.goodreads.com/user/show/125164534-nh" target="blank"><img align="center" src="https://cdn.simpleicons.org/goodreads" alt="dnanh" height="30" width="40" /></a>
 </p> -->
@@ -32,4 +32,4 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anhskrttt&show_icons=true&locale=en" alt="anhskrttt" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anhskrttt&" alt="anhskrttt's streak stats" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anhskrttt&" alt="anhskrttt's streak stats" /></p>
