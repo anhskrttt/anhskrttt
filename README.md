@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ánh</h1>
 
-<h3 align="center">
-  A curious mind exploring Earth Server 🌍 <br>
-  (While <em>heroically losing brain cells</em> debugging @ Moreh 🖥️🐛)
-</h3>
+<h3 align="center" style="margin-bottom: 2px;">A curious mind exploring Earth Server 🌍</h3>
+<p align="center" style="margin-top: -5px; font-size: 10px;">
+  <em>(While heroically losing brain cells debugging @ Moreh)</em>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anhskrttt&label=Profile%20views&color=0e75b6&style=flat" alt="anhskrttt" /> </p>
 
