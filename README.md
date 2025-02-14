@@ -1,9 +1,3 @@
-<style>
-p {
-  margin-top: -5px;
-}
-</style>
-
 <h1 align="center">Hi 👋, I'm Ánh</h1>
 
 <h3 align="center">
