@@ -7,9 +7,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anhskrttt&label=Profile%20views&color=0e75b6&style=flat" alt="anhskrttt" /> </p>
 
-- 🔭 I’m currently working on [ROCm/MIOpen](https://github.com/ROCm/MIOpen)
+<!-- - 🔭 I’m currently working on [Project Name](project_link) -->
 
-- 🌱 I’m currently learning **HPC, CUDA/HIP**
+- 🌱 I’m currently learning **HPC**
 
 - 💬 Ask me about **Parallel Computing**
 
