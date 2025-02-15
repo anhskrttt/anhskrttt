@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Parallel Computing**
 
-- 📫 How to reach me **anhdn.uet@gmail.com**
+- 📫 How to reach me **anh.duong@moreh.com.vn**
 
 <!-- - 📄 Know about my experiences: [Anh's Resume](/anhdn_resume.pdf) -->
 
